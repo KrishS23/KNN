@@ -1,11 +1,5 @@
 // < VectorDataset.h >
-
 /**
- * ASSIGNMENT 5
- * Name : Sahil Asawa
- * Roll No. : 22CS10065
-*/
-
 #include"DataVector.h"
 
 /**
