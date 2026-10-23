@@ -1,11 +1,5 @@
 // <TreeIndex.h>
 
-/**
- * ASSIGNMENT 5
- * Name : Sahil Asawa
- * Roll No. : 22CS10065
-*/
-
 #include"VectorDataset.h"
 #include<random>
 
