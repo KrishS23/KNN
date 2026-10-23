@@ -1,9 +1,5 @@
 // <TreeIndex.cpp>
 
-/**
- * ASSIGNMENT 5
- * Name : Krish Goel
-*/
 
 #include"TreeIndex.h"
 #include <chrono>
